@@ -1,0 +1,6 @@
+{
+  "name": "WordCraft: Word Search PDF Book Generator",
+  "description": "Generate customized, print-ready word search puzzle books with cover page, themed word puzzles, and full solution keys rendered directly in the browser with jsPDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
